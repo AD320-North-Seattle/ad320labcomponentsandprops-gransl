@@ -24,17 +24,17 @@
 
 ## 2. Create Components
 
-- Create a Higher-Order component called **RecipeContainer**
-- Create a presentational component called **Recipe**
+[x] Create a Higher-Order component called **RecipeContainer**
+[x] Create a presentational component called **Recipe**
 
 ---
 
 ## 3. Import and Pass Data Through Props
 
-- Move your data file (e.g. `data.js`) into the `src` folder
-- Import the data into `App.jsx`
-- Render the `RecipeContainer` component inside `App`
-- Pass the recipe data to `RecipeContainer` using props
+[x] Move your data file (e.g. `data.js`) into the `src` folder
+[x] Import the data into `App.jsx`
+[x] Render the `RecipeContainer` component inside `App`
+[x] Pass the recipe data to `RecipeContainer` using props
 
 ---
 
@@ -45,7 +45,9 @@
 - Pass each individual recipe to the `Recipe` component as a prop
 - In `Recipe`, access the data through props and render the content using JSX
 
-5. Style the components
+--
+
+## 5. Style the components
 
 - Style the components however you like, have fun!
 
